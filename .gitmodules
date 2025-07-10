@@ -16,3 +16,6 @@
 [submodule "iot2425-graded-ws2-meowtherine"]
 	path = iot2425-graded-ws2-meowtherine
 	url = https://github.com/uwe-scct/iot2425-graded-ws2-meowtherine
+[submodule "iot-ws-resit-meowtherine"]
+	path = iot-ws-resit-meowtherine
+	url = https://github.com/uwe-scct/iot-ws-resit-meowtherine
