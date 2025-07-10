@@ -1,0 +1,18 @@
+[submodule "iot2425-ws1-meowtherine"]
+	path = iot2425-ws1-meowtherine
+	url = https://github.com/uwe-scct/iot2425-ws1-meowtherine
+[submodule "worksheets/iot2425-ws1"]
+	path = worksheets/iot2425-ws1
+	url = https://github.com/uwe-scct/iot2425-ws1-meowtherine
+[submodule "iot-ws-2-meowtherine"]
+	path = iot-ws-2-meowtherine
+	url = https://github.com/uwe-scct/iot-ws-2-meowtherine
+[submodule "iot2425-graded-ws1-meowtherine"]
+	path = iot2425-graded-ws1-meowtherine
+	url = https://github.com/uwe-scct/iot2425-graded-ws1-meowtherine
+[submodule "iot-ws-5-meowtherine"]
+	path = iot-ws-5-meowtherine
+	url = https://github.com/uwe-scct/iot-ws-5-meowtherine
+[submodule "iot2425-graded-ws2-meowtherine"]
+	path = iot2425-graded-ws2-meowtherine
+	url = https://github.com/uwe-scct/iot2425-graded-ws2-meowtherine
